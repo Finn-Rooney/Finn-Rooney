@@ -1,0 +1,4 @@
+- 🎸 Hi, I’m @Finn-Rooney
+- 🏙 I’m interested in Web Development & Music
+- 🚀 Currently learning Next.js & Hydrogen
+- 📧 Email me finnrooney@outlook.com
